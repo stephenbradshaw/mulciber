@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.o
+*.obj
+dist/
+build/
+.pytest_cache/
+.coverage
+LOCAL_NOTES.md
